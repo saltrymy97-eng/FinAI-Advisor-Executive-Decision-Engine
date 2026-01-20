@@ -1,3 +1,10 @@
+# FinAI Advisor – Executive Decision Engine
+
+An AI-powered financial advisor that turns accounting entries into mandatory executive decisions and integrates programmable transactions using MNEE.
+
+
+
+
 import streamlit as st
 import plotly.graph_objects as go
 
